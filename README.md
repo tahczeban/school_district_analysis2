@@ -26,42 +26,42 @@ PyCitySchools/Panda
   
 **RESULTS:** 
 
-                                    1. Results of district summary versus removal of ninth graders at Thomas High School:
+                                    Results of district summary versus removal of ninth graders at Thomas High School:
 _Original Data:_
 
 _Comparison Data of St Thomas High School:_
 
-                                    2. School summary comparison:
+                                    School summary comparison:
 _Original Data:_
 
 _Comparison Data of Thomas High School:
 
-                                    3. School erformance comparison
+                                    School erformance comparison
 _Original Data:_
 
 _Comparison Data of Thomas High School:_
 
-                                    4. Averages of Math and Reading scores
+                                    Averages of Math and Reading scores
 _Original Data:_
 
 _Comparison Data of Thomas High School:_
      
-                                    5. Scores by School Spending
+                                    Scores by School Spending
 _Original Data:_
 
 _Comparison Data of Thomas High School:_
       
-                                    6. Scores by School Spending
+                                    Scores by School Spending
 _Original Data:_
 
 _Comparison Data of Thomas High School:_
 
-                                    7. Scores by School Size
+                                    Scores by School Size
 _Original Data:_
 
 _Comparison Data of Thomas High School:_
        
-                                    8. Scores by School Type
+                                    Scores by School Type
 _Original Data:_
 
 _Comparison Data of Thomas High School:_
@@ -69,3 +69,10 @@ _Comparison Data of Thomas High School:_
 
 **SUMMARY**
 1. 
+
+
+**REFERENCES**
+ -BSC
+ -Google
+ -GitHub
+ -StackOverflow
