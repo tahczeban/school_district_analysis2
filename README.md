@@ -26,10 +26,10 @@ PyCitySchools/Panda
   
 **RESULTS:** 
 
-                                    Results of district summary versus removal of ninth graders at Thomas High School:
+                                    Results of district summary vs removal of data THS                        
 _Original Data:_
 
-_Comparison Data of St Thomas High School:_
+_Comparison Data of St Thomas High School(THS):_
 
                                     School summary comparison:
 _Original Data:_
