@@ -3,8 +3,8 @@ module 4 school district analysis
 PyCitySchools/Panda
 
 
+![image](https://user-images.githubusercontent.com/90135381/158724728-f2c1d738-fbaf-47b2-b3ea-e13da777b17c.jpeg)
 
-![image](https://user-images.githubusercontent.com/90135381/158724323-73b2ba34-8638-45a1-b421-3b6958ff3ef4.jpeg)
 
 ______________
 **Resources:**
@@ -14,7 +14,7 @@ ______________
 -Jupyter(4.7.1, notebook 6.3.0)
 -Pandas
 -Numpy
-IMAGE: obtained from: https://pngtree.com/freepng/school-building-cute-school_5592857.html
+IMAGE: obtained from: https://pngtree.com/freepng/cartoon-school-building-design-with-commercial-elements_4036417.html
 ______________________
 **OVERVIEW OF SCHOOL DISTRICT ANALYSIS:**
 
