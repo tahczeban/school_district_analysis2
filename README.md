@@ -2,6 +2,11 @@
 module 4 school district analysis
 PyCitySchools/Panda
 
+
+
+![image](https://user-images.githubusercontent.com/90135381/158724323-73b2ba34-8638-45a1-b421-3b6958ff3ef4.jpeg)
+
+______________
 **Resources:**
 -Anaconda(1.7.2)
 -Conda(4.10.3) 
@@ -9,7 +14,8 @@ PyCitySchools/Panda
 -Jupyter(4.7.1, notebook 6.3.0)
 -Pandas
 -Numpy
-
+IMAGE: obtained from: https://pngtree.com/freepng/school-building-cute-school_5592857.html
+______________________
 **OVERVIEW OF SCHOOL DISTRICT ANALYSIS:**
 
   The purpose of this analysis was to perpare a comparison of district school data for Maria, the Chief Data Scientist, to easily peruse for insights regarding the performance trends at school district levels. Math and reading scores were manipulated and analyzed for the Board presentation. Upon review, it was determined that the ninth grade class data from Thomas High School revealed various sustpect anomolies. For a comparison the ninth grade data was removed as NaN and the analysis was performed again. This compiled analysis utilized the following methods for data retreival:
@@ -24,6 +30,7 @@ PyCitySchools/Panda
   9) Find top/bottom performing schools
   10) group schools by spending per student, by school size and by school type
   
+_____________  
 **RESULTS:** (please refer to PYCitySchools.docx for full results with charts, as this part was completed on word due to GitHub issues 11/27/21)
 
 _District Summary_
@@ -48,7 +55,7 @@ _Effects on scores by school type_
 In terms of school type there was nominal change in scores by school type; however,  Charter schools performance was far better than the district schools over all
 
 
-
+____________
 **SUMMARY**
 1. The following four changes were observed in the updated school analysis after reading/math scores for 9th graders at THS     were replaced with NaN’s
 2. Test scores did not change significantly when removing the THS ninth graders test scores
@@ -57,7 +64,7 @@ In terms of school type there was nominal change in scores by school type; howev
 4. Charter school passing percentages declines; however, remained higher than district overall.
 
 
-
+_______________
 **REFERENCES**
  -BSC
  -Google
